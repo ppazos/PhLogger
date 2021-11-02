@@ -1,0 +1,13 @@
+{
+  "name": "cabolabs/phlogger",
+  "description": "Minimal logger",
+  "version": "0.1.0",
+  "require": {
+    "php": "^7.0|^8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "CaboLabs\\PhLogger\\": "src"
+    }
+  }
+}
