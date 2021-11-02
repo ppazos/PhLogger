@@ -2,7 +2,7 @@
 
 namespace CaboLabs\PhLogger;
 
-class Logger {
+class PhLogger {
 
   static $on = true;
   static $force = false;
